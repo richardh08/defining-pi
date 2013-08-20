@@ -1,7 +1,7 @@
 defining-pi
 ===========
 
-Wysing Art Centre and Cambridge University Collaboration.
+Wysing Art Centre and Crucible (Cambridge University) Collaboration.
 Defining the Raspberry Pi within a contemporary art practise.
 
 Project - 
